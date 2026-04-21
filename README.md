@@ -1,1 +1,3 @@
 # bese-bulish
+/.//
+//
